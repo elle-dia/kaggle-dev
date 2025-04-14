@@ -1,0 +1,17 @@
+{
+  "id": "elledia/titanic-tutorial",
+  "id_no": 80293983,
+  "title": "titanic tutorial",
+  "code_file": "titanic-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
